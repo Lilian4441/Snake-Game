@@ -1,4 +1,4 @@
-# SnakeGame
+# SnakeGame:snake:
 <h3> A graphical user interface application that simulates a fully playable Snake game. </h3>
 <h4> Completed: June 2023 </h4>
 
